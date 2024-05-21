@@ -1,5 +1,5 @@
 # SySinovacion
-<!DOCTYPE html>
+reformas
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -107,7 +107,7 @@
         <section id="contact" class="section contact">
             <h2>Contacto</h2>
             <p>Para más información o para solicitar un presupuesto, contáctanos a través de:</p>
-            <p>Email: <a href="mailto:info@sysinovaciones.com">info@sysinovaciones.com</a></p>
+            <p>Email: <a href="mailto:sys171104@gmail.com">sys171104@gmail.com</a></p>
             <p>Teléfono: +34 641219750</p>
         </section>
     </div>
